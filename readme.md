@@ -22,9 +22,9 @@ Hello world, it's Toby.  I'm a LAMP-stack webmaster from Northeast Ohio, USA.  M
 <details name="repo">
 	<summary>Web / JavaScript</summary>
 	<ul>
-	<li><a href="https://github.com/tobymackenzie/theme-switch.js">theme-switch.js</a>: Simple, static friendly theme switcher for websites. ([theme demo](https://tobymackenzie.github.io/theme-switch.js/))</li>
-	<li><a href="https://github.com/tobymackenzie/snow.js">snow.js</a>: Falling snow for a website. ([snow demo](https://tobymackenzie.github.io/snow.js/))</li>
-	<li><a href="https://github.com/tobymackenzie/ghosts.js">ghosts.js</a>: Creates ghosts that float around a web page. ([ghosts demo](https://tobymackenzie.github.io/ghosts.js/))</li>
+	<li><a href="https://github.com/tobymackenzie/theme-switch.js">theme-switch.js</a>: Simple, static friendly theme switcher for websites. (<a href="https://tobymackenzie.github.io/theme-switch.js/">theme switch demo</a>)</li>
+	<li><a href="https://github.com/tobymackenzie/snow.js">snow.js</a>: Falling snow for a website. (<a href="https://tobymackenzie.github.io/snow.js/">snow demo</a>)</li>
+	<li><a href="https://github.com/tobymackenzie/ghosts.js">ghosts.js</a>: Creates ghosts that float around a web page. (<a href="https://tobymackenzie.github.io/ghosts.js/">ghosts demo</a>)</li>
 	<li><a href="https://github.com/tobymackenzie/spaify.web">spaify.web</a>: Script to turn regular website into a single page application for sites with the same shell around select changing content elements.</li>
 	<li><a href="https://github.com/tobymackenzie/tmclasses.js">tmclasses.js</a>: Javascript class library</li>
 	<li><a href="https://github.com/tobymackenzie/test-server.js">test-server.js</a>: A simple js test server that serves a directory and rewrites any npm module paths to work in the browser</li>
@@ -73,12 +73,12 @@ Hello world, it's Toby.  I'm a LAMP-stack webmaster from Northeast Ohio, USA.  M
 <details name="repo">
 	<summary>Sites</summary>
 	<ul>
-	<li><a href="https://github.com/tobymackenzie/tobymackenzie.com.site">tobymackenzie.com.site</a>: Code for [tobymackenzie.com](https://www.tobymackenzie.com/)</li>
+	<li><a href="https://github.com/tobymackenzie/tobymackenzie.com.site">tobymackenzie.com.site</a>: Code for <a href="https://www.tobymackenzie.com/">tobymackenzie.com</a></li>
 	<li><a href="https://github.com/tobymackenzie/tobymackenzie.srv">tobymackenzie.srv</a>: provisioning / deployment for tobymackenzie.com server</li>
 	<li><a href="https://github.com/tobymackenzie/tobymackenzie.com.data">tobymackenzie.com.data</a>: Content / data for site tobymackenzie.com</li>
-	<li><a href="https://github.com/tobymackenzie/bxln2ho3.com.site">bxln2ho3.com.site</a>: [bxln2ho3.com](https://bxln2ho3.com/) site code</li>
-	<li><a href="https://github.com/tobymackenzie/10k-gol.site">10k-gol.site</a>: Conway's Game of Life implementation for 10k Apart challenge ([10kgol demo](https://10kgol.macn.me/))</li>
-	<li><a href="https://github.com/tobymackenzie/tobymackenzie.github.io">tobymackenzie.github.io</a> ([github.io site](tobymackenzie.github.io))</li>
+	<li><a href="https://github.com/tobymackenzie/bxln2ho3.com.site">bxln2ho3.com.site</a>: <a href="https://bxln2ho3.com/">bxln2ho3.com</a> site code</li>
+	<li><a href="https://github.com/tobymackenzie/10k-gol.site">10k-gol.site</a>: Conway's Game of Life implementation for 10k Apart challenge (<a href="https://10kgol.macn.me/">10kgol demo</a>)</li>
+	<li><a href="https://github.com/tobymackenzie/tobymackenzie.github.io">tobymackenzie.github.io</a> (<a href="https://tobymackenzie.github.io">github.io site</a>)</li>
 	</ul>
 </details>
 <details name="repo">
