@@ -56,6 +56,7 @@ Hello world, it's Toby.  I'm a LAMP-stack webmaster from Northeast Ohio, USA.  M
 	<ul>
 	<li><a href="https://github.com/tobymackenzie/wiki-site.symf">wiki-site.symf</a>: Web-site front-end interface for a folder of markdown files, optionally managed with <code>tjm/wiki</code>, using Symfony.</li>
 	<li><a href="https://github.com/tobymackenzie/wiki-web.symf">wiki-web.symf</a>: Web interface for 'tjm/wiki' using Symfony</li>
+	<li><a href="https://github.com/tobymackenzie/wiki-blog.php">wiki-blog.php</a>: Blog plugin for 'tjm/wiki-site'</li>
 	<li><a href="https://github.com/tobymackenzie/sy-console.symf">sy-console.symf</a>: Symfony Console component with dependency injection, config handling, configurable command loading, and other niceties.</li>
 	<li><a href="https://github.com/tobymackenzie/sy-web.symf">sy-web.symf</a>: Base functionality for Symfony web projects.</li>
 	<li><a href="https://github.com/tobymackenzie/sy-site.symf">sy-site.symf</a>: Some base functionality for use with Symfony sites.</li>
